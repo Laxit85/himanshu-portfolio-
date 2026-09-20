@@ -103,7 +103,7 @@ export function ContactPage() {
           <div style={{ marginBottom: '2rem' }}>
             <span className="mono-tag">LOCATION & TIMEZONE</span>
             <p style={{ fontSize: '1.1rem', color: 'var(--ink)', marginTop: '0.2rem' }}>
-              London, UK — UTC+00:00 (Global Remote Work)
+              Jodhpur, Rajasthan, India — IST (UTC+05:30) (Global Remote Work)
             </p>
           </div>
 
