@@ -28,7 +28,7 @@ export function ContactPage() {
                   type="text"
                   id="contact-name"
                   className="form-control"
-                  placeholder="e.g. Marcus Vance"
+                  placeholder="e.g. Your Full Name"
                   required
                 />
               </div>
@@ -39,7 +39,7 @@ export function ContactPage() {
                   type="email"
                   id="contact-email"
                   className="form-control"
-                  placeholder="e.g. marcus@agency.com"
+                  placeholder="e.g. yourname@company.com"
                   required
                 />
               </div>
