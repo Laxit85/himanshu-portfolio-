@@ -101,9 +101,9 @@ export function ContactPage() {
           </div>
 
           <div style={{ marginBottom: '2rem' }}>
-            <span className="mono-tag">LOCATION & TIMEZONE</span>
+            <span className="mono-tag">LOCATION</span>
             <p style={{ fontSize: '1.1rem', color: 'var(--ink)', marginTop: '0.2rem' }}>
-              Jodhpur, Rajasthan, India — IST (UTC+05:30) (Global Remote Work)
+              Jodhpur, Rajasthan, India
             </p>
           </div>
 

@@ -15,7 +15,7 @@ export function Footer() {
 
         <div style={{ textAlign: 'right' }}>
           <p style={{ color: 'var(--ink-dim)', fontFamily: 'var(--font-mono)', fontSize: '0.85rem', marginBottom: '0.4rem' }}>
-            JODHPUR, RAJASTHAN & GLOBAL REMOTE
+            JODHPUR, RAJASTHAN
           </p>
           <p style={{ color: 'var(--ink-faint)', fontFamily: 'var(--font-mono)', fontSize: '0.78rem', lineHeight: '1.6' }}>
             © {new Date().getFullYear()} HIMANSHU SRIMALI. ALL RIGHTS RESERVED BY{' '}
