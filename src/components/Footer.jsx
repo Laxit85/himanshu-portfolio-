@@ -11,6 +11,14 @@ export function Footer() {
           <p style={{ color: 'var(--ink-faint)', fontFamily: 'var(--font-mono)', fontSize: '0.85rem', marginTop: '0.3rem' }}>
             VIDEO EDITING × GRAPHIC DESIGN
           </p>
+          <div style={{ marginTop: '0.8rem', fontFamily: 'var(--font-mono)', fontSize: '0.85rem' }}>
+            <a href="mailto:anokhasaty@gmail.com" style={{ color: 'var(--cyan)', textDecoration: 'none', marginRight: '1.2rem' }}>
+              ✉ anokhasaty@gmail.com
+            </a>
+            <a href="tel:7568987244" style={{ color: 'var(--cyan)', textDecoration: 'none' }}>
+              📞 +91 7568987244
+            </a>
+          </div>
         </div>
 
         <div style={{ textAlign: 'right' }}>

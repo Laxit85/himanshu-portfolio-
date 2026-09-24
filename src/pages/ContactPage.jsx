@@ -96,7 +96,18 @@ export function ContactPage() {
           <div style={{ marginBottom: '2rem' }}>
             <span className="mono-tag">EMAIL</span>
             <p style={{ fontSize: '1.3rem', fontWeight: 600, color: 'var(--cyan)', marginTop: '0.2rem' }}>
-              himanshu@himanshusrimali.com
+              <a href="mailto:anokhasaty@gmail.com" style={{ color: 'inherit', textDecoration: 'none' }}>
+                anokhasaty@gmail.com
+              </a>
+            </p>
+          </div>
+
+          <div style={{ marginBottom: '2rem' }}>
+            <span className="mono-tag">PHONE</span>
+            <p style={{ fontSize: '1.3rem', fontWeight: 600, color: 'var(--cyan)', marginTop: '0.2rem' }}>
+              <a href="tel:7568987244" style={{ color: 'inherit', textDecoration: 'none' }}>
+                +91 7568987244
+              </a>
             </p>
           </div>
 
@@ -105,16 +116,6 @@ export function ContactPage() {
             <p style={{ fontSize: '1.1rem', color: 'var(--ink)', marginTop: '0.2rem' }}>
               Jodhpur, Rajasthan, India
             </p>
-          </div>
-
-          <div>
-            <span className="mono-tag">CONNECT</span>
-            <div style={{ display: 'flex', gap: '1rem', marginTop: '0.5rem' }}>
-              <a href="#" className="btn-secondary" style={{ padding: '0.5rem 1rem', fontSize: '0.85rem' }}>VIMEO</a>
-              <a href="#" className="btn-secondary" style={{ padding: '0.5rem 1rem', fontSize: '0.85rem' }}>BEHANCE</a>
-              <a href="#" className="btn-secondary" style={{ padding: '0.5rem 1rem', fontSize: '0.85rem' }}>INSTAGRAM</a>
-              <a href="#" className="btn-secondary" style={{ padding: '0.5rem 1rem', fontSize: '0.85rem' }}>LINKEDIN</a>
-            </div>
           </div>
         </div>
       </div>
