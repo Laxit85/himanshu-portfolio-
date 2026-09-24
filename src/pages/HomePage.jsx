@@ -80,7 +80,7 @@ export function HomePage({ onSelectProject }) {
           <div className="service-card">
             <div className="service-icon">[04]</div>
             <h3>COLOR GRADING & FINISHING</h3>
-            <p>DaVinci Resolve color passes, match-grading, cinematic film emulation LUTs, and high-dynamic-range mastering.</p>
+            <p>Lumetri Color passes, match-grading, cinematic film emulation LUTs, and high-dynamic-range mastering.</p>
             <ul className="service-inclusions">
               <li>Match Grading & Look Creation</li>
               <li>HDR Mastering</li>

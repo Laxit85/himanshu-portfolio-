@@ -61,16 +61,12 @@ export function Hero({ onSelectProject }) {
 
         <div className="hero-stats">
           <div className="stat-item">
-            <h3>08+</h3>
+            <h3>02+</h3>
             <p>Years Experience</p>
           </div>
           <div className="stat-item">
             <h3>140+</h3>
             <p>Edits & Designs</p>
-          </div>
-          <div className="stat-item">
-            <h3>35+</h3>
-            <p>Global Brands</p>
           </div>
         </div>
       </div>

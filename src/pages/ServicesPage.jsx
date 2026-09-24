@@ -18,7 +18,7 @@ export function ServicesPage() {
           <ul className="service-inclusions">
             <li>Full Narrative Cut</li>
             <li>Sound Design & SFX</li>
-            <li>DaVinci Look Grade</li>
+            <li>Lumetri Color Grade</li>
           </ul>
         </div>
 
@@ -46,7 +46,7 @@ export function ServicesPage() {
 
         <div className="service-card">
           <div className="service-icon">OFFERING D</div>
-          <h3>COLOR GRADING & RESOLVE FINISHING</h3>
+          <h3>COLOR GRADING & ADOBE FINISHING</h3>
           <p>Professional color correction, look development, shot matching, skin tone preservation, and delivery in 4K DCI / Rec.709 / HDR10.</p>
           <ul className="service-inclusions">
             <li>Shot-to-Shot Matching</li>
